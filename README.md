@@ -1,6 +1,6 @@
 
 
 # UnitSineWave
-Some sine function visualization
+Some  function visualization
 ![](images/ripple.PNG)
 ![](images/MultiSin2D.png)
